@@ -1,1 +1,1 @@
-# EDBlog.github.io
+# EDBlog
